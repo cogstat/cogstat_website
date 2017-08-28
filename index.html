@@ -1,0 +1,142 @@
+---
+layout: default
+section_id: home
+slides:
+  - bg: images/helloquence-61189_fullhd.jpg
+    small_title:
+      klass: bottom-to-top
+      text: Analyize your data 
+    title:
+      klass: bottom-to-top
+      text: more efficiently
+    buttons:
+      klass: bottom-to-top
+      items:
+        - text: Download CogStat
+          link_to: https://github.com/cogstat/cogstat/wiki/Installation
+  - bg: images/nick-morrison-325805_fullhd.jpg
+    small_title:
+      klass: bottom-to-top
+      text: Faster data analysis with
+    title:
+      klass: bottom-to-top
+      text: automatic solutions
+    buttons:
+      klass: bottom-to-top
+      items:
+        - text: Download CogStat
+          link_to: https://github.com/cogstat/cogstat/wiki/Installation
+
+---
+
+
+<div class='mod modDefaultSlider'>
+  <div class='sequence' data-autostop='on' data-timeout='5000'>
+    <a class='sequence-prev' href='javascript:void(0);'>
+      <span></span>
+    </a>
+    <a class='sequence-next' href='javascript:void(0);'>
+      <span></span>
+    </a>
+    <ul class='sequence-pagination'>
+      {% for slide in page.slides %}
+        {% if forloop.first %}
+          {% assign class = 'current' %}
+        {% else %}
+          {% assign class = '' %}
+        {% endif %}
+        <li class="{{class}}"></li>
+      {% endfor %}
+    </ul>
+    <ul class='sequence-canvas'>
+      {% for slide in page.slides %}
+        {% if forloop.first %}
+          {% assign style = 'static' %}
+        {% else %}
+          {% assign style = '' %}
+        {% endif %}
+
+        <li class='frame {{style}} {{ slide.klass }}'>
+          <div class='bg' style='background-image: url({{ slide.bg}});'></div>
+          <div class='small-title {{ slide.small_title.klass }}'>
+            <div class='row'>
+              <div class='large-12 columns'>
+                <h2>{{ slide.small_title.text }}</h2>
+              </div>
+            </div>
+          </div>
+          <div class='title {{ slide.title.klass }}'>
+            <div class='row'>
+              <div class='large-12 columns'>
+                <h2>{{ slide.title.text }}</h2>
+              </div>
+            </div>
+          </div>
+          <div class='buttons-wrapper {{ slide.buttons.klass }}'>
+            <div class='row'>
+              <div class='large-12 columns'>
+                <div class='two spacing'></div>
+                {% for button in slide.buttons.items %}
+                  <a class='button {{ button.klass }}' href='{{ button.link_to }}'>{{ button.text }}</a>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="four spacing"></div>
+
+<div class="row">
+  <div class="medium-3 large-3 columns">
+    {% include icon-text.html title='Automatic hypothesis test selection' desc='No need for manual test selection. CogStat will do the work for you.' icon_class='fa fa-sitemap' delay='0' shape_class='icon-text-circle' %}
+  </div>
+  <div class="medium-3 large-3 columns">
+    {% include icon-text.html title='Automatic graph creation' desc='Investigate your data on informative charts that CogStat creates for you.' icon_class='fa fa-bar-chart' delay='200' shape_class='icon-text-circle' %}
+  </div>
+  <div class="medium-3 large-3 columns">
+    {% include icon-text.html title='APA style output' desc='Copy and paste your results directly to your report.' icon_class='fa fa-file-text-o' delay='400' shape_class='icon-text-circle' %}
+  </div>
+  <div class="medium-3 large-3 columns">
+    {% include icon-text.html title='Faster data analysis' desc='Work more efficiently with many automated analysis steps.' icon_class='fa fa-clock-o' delay='600' shape_class='icon-text-circle' %}
+  </div>
+</div>
+<div class="row">
+  <div class="medium-3 large-3 columns">
+    {% include icon-text.html title='Available in many languages' desc='Use CogStat in your language.' icon_class='fa fa-globe' delay='0' shape_class='icon-text-circle' %}
+  </div>
+  <div class="medium-3 large-3 columns">
+    {% include icon-text.html title='Free and open source' desc='CogStat is free of charge.' icon_class='fa fa-cloud-download' delay='200' shape_class='icon-text-circle' %}
+  </div>
+  <div class="medium-3 large-3 columns">
+    {% include icon-text.html title='Cross platform' desc='Available on Windows and Linux.' icon_class='fa fa-linux' delay='400' shape_class='icon-text-circle' %}
+  </div>
+  <div class="medium-3 large-3 columns">
+    {% include icon-text.html title='Jupyter Notebook integration' desc='Make your data analysis in Python more efficient.' icon_class='fa fa-code' delay='600' shape_class='icon-text-circle' %}
+  </div>
+</div>
+
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h2>About CogStat</h2>
+      <p>
+      CogStat is a free and open source data analysis and statistical analyis software which aims to make data analysis more efficient. Development is lead by Attila Krajcsi at Eötvös Loránd University. Try out CogStat, and analyze your data more efficiently.
+      </p>
+      <div class='spacing'></div>
+      <div class="medium-6 large-6 columns" align="center">
+        <a class='button' href='https://github.com/cogstat/cogstat/wiki'>More information</a>
+      </div>
+      <div class="medium-6 large-6 columns" align="center">
+        <a class='button' href='https://github.com/cogstat/cogstat/wiki/Installation'>Download CogStat</a>
+      </div>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+

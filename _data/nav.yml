@@ -1,0 +1,12 @@
+- name: Home
+  path: index.html
+  section_id: home
+- name: Download
+  path: download.html
+  section_id: 
+- name: Get help
+  path: get_help.html
+  section_id: get_help
+- name: Contribute
+  path: contribute.html
+  section_id: contribute
