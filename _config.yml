@@ -1,9 +1,9 @@
 # Site settings
-title: CogStat - Analyze your data more efficiently
+title: CogStat -- Analyze your data more efficiently
 email: krajcsi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   CogStat is an easy to use statistical analysis software.
-baseurl: "/cogstat_website/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 
 github_username: 
