@@ -11,7 +11,7 @@ __Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](htt
 
 __Date__ 17 November 2017, 12:00
 
-__Website__ http://www.cogstat.org/best_practices_symposium/
+__Website__ [http://www.cogstat.org/best_practices_symposium/](http://www.cogstat.org/best_practices_symposium/)
 
 __Aims__ While many new methods are developed these days, many valuable older methods are not used, because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best practice symposium is to popularize either new or old solutions, to familiarize researchers with these methods, and to make these methods more accessible.
 
