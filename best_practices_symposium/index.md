@@ -20,7 +20,7 @@ __Presentations__ Potential talks may include:
 * Demonstration of software solutions that could make the analysis more efficient
 * Presentation of tutorials that introduce either new or older methods
 
-__Register__ Beacuse of the limited seats, please, register for the event [here](https://goo.gl/forms/jNpZcWuHzkkgbpz62).
+__Register__ Because of the limited seats, please, register for the event [here](https://goo.gl/forms/jNpZcWuHzkkgbpz62).
 
 
 ### Call for abstracts
