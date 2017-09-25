@@ -11,6 +11,7 @@ __Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](htt
 
 __Date__ 17 November 2017, 12:00
 
+__Website__ http://www.cogstat.org/best_practices_symposium/
 
 __Aims__ While many new methods are developed these days, many valuable older methods are not used, because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best practice symposium is to popularize either new or old solutions, to familiarize researchers with these methods, and to make these methods more accessible.
 
@@ -25,7 +26,7 @@ __Register__ Because of the limited seats, please, register for the event [here]
 
 ### Call for abstracts
 
-Submit your abstract by filling [this form](https://goo.gl/forms/jNpZcWuHzkkgbpz62).
+Submit your abstract by filling out [this form](https://goo.gl/forms/jNpZcWuHzkkgbpz62).
 
 Deadline for abstract submission is 2 November 2017.
 
@@ -37,4 +38,3 @@ For more information contact [Attila Krajcsi](mailto:krajcsi@gmail.com).
 Expect to see the program after 3 November.
 
 <div class='four spacing'></div>
-
