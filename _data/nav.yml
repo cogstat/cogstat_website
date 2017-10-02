@@ -3,7 +3,7 @@
   section_id: home
 - name: Download
   path: download.html
-  section_id: 
+  section_id: download
 - name: Get help
   path: get_help.html
   section_id: get_help
