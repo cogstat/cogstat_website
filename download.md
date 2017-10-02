@@ -3,10 +3,11 @@ layout: page
 title:  "Download CogStat"
 section_id: download
 ---
+<div class='four spacing'></div>
 
 ## Download CogStat
 
-
+<div class='four spacing'></div>
 
 <div class="row" style="width: 60vw">
     <div class="medium-4 large-4 columns">
@@ -36,3 +37,5 @@ section_id: download
         </div>
     </div>
 </div>
+
+<div class='four spacing'></div>
