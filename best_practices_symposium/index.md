@@ -13,7 +13,7 @@ __Date__ 17 November 2017, 12:00
 
 __Website__ [http://www.cogstat.org/best_practices_symposium/](http://www.cogstat.org/best_practices_symposium/)
 
-__Aims__ While many new methods are developed these days, many valuable older methods are not used, because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best practices symposium is to popularize either new or old solutions, to familiarize researchers with these methods, and to make these methods more accessible. In addition, the symposium is a great opportunity to discuss and evaluate various methods to improve research practice. 
+__Aims__ While many new methods are developed these days that are applicable in behavioral sciences, many valuable older methods are not used, because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best practices symposium is to popularize either new or old solutions, to familiarize researchers with these methods, and to make these methods more accessible. In addition, the symposium is a great opportunity to discuss and evaluate various methods to improve research practice. 
 
 __Presentations__ Potential talks may include:
 * Presentation of new methods, preferably also offering computational tools
@@ -21,8 +21,9 @@ __Presentations__ Potential talks may include:
 * Demonstration of software solutions that could make the analysis more efficient
 * Presentation of tutorials that introduce either new or older methods
 
-__Register__ Because of the limited seats, please, register for the event [here](https://goo.gl/forms/jNpZcWuHzkkgbpz62).
+__Register__ Admission is free, but because of the limited seats, please, register for the event [here](https://goo.gl/forms/jNpZcWuHzkkgbpz62).
 
+__Supporter__ The symposium is supported by the [Faculty of Education and Psychology, Eötvös loránd University](https://www.ppk.elte.hu/en).
 
 ### Call for abstracts
 
