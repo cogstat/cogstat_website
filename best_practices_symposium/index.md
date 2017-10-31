@@ -23,7 +23,7 @@ __Presentations__ Potential talks may include:
 
 __Register__ Admission is free, but because of the limited seats, please, register for the event [here](https://goo.gl/forms/jNpZcWuHzkkgbpz62).
 
-__Supporter__ The symposium is supported by the [Faculty of Education and Psychology, Eötvös loránd University](https://www.ppk.elte.hu/en).
+__Supporter__ The symposium is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en).
 
 ### Call for abstracts
 
