@@ -6,6 +6,8 @@ title:  "Best practices in data analysis and statistics symposium"
 
 The program is not final, expect to see some changes.
 
+The talks will be 15 minutes long, and the discussions will be practically unlimited.
+
 ### Program
 
 #### Session 1: Analysis tools
@@ -75,7 +77,7 @@ The presentation focuses on some new methods of the ROPstat statistical software
 
 __The network approach to psychopathology__
 
-_Bertalan Polner (Department of Cognitive Science, Budapest University of Technology and Economics)_
+_Bertalan Polner (Laboratory for Perception & Cognition and Clinical Neuroscience, Department of Cognitive Science, Budapest University of Technology and Economics)_
 
 Mental disorders are characterized by fluctuating and interacting symptoms. For instance, in the domain of depression, insomnia can lead to fatigue and concentration problems, or in the case of psychosis, the interaction between affective disturbances,anomalous experiences and hallucinations may play a causal role in the formation of delusions. It has been argued that if we assume that symptoms are caused by an unobservable disease, and apply factor analysis to our data in order to extract latent variables reflecting such hidden disease processes, we can overlook a very important aspect of mental disorders - the interactions between individual symptoms that may play a key role in the emergence and maintenance of psychopathology. 
 
