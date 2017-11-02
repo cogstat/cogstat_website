@@ -36,6 +36,6 @@ For more information contact [Attila Krajcsi](mailto:krajcsi@gmail.com).
 
 ### Program
 
-Expect to see the program after 3 November.
+Find the program [here](program.html).
 
 <div class='four spacing'></div>
