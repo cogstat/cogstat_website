@@ -25,7 +25,13 @@ __Register__ Admission is free, but because of the limited seats, please, regist
 
 __Supporter__ The symposium is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en).
 
+
+### Program
+
+Find the program [here](program.html).
+
 ### Call for abstracts
+
 
 Submit your abstract by filling out [this form](https://goo.gl/forms/jNpZcWuHzkkgbpz62).
 
@@ -33,9 +39,5 @@ Deadline for abstract submission is 2 November 2017.
 
 For more information contact [Attila Krajcsi](mailto:krajcsi@gmail.com).
 
-
-### Program
-
-Find the program [here](program.html).
 
 <div class='four spacing'></div>
