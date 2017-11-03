@@ -2,7 +2,7 @@
 layout: best_practices_symposium
 title:  "Best practices in data analysis and statistics symposium"
 ---
-## Best practices in data analysis and statistics symposium
+## [Best practices in data analysis and statistics symposium](index.html)
 
 The program is not final, expect to see some changes.
 
