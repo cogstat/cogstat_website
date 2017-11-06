@@ -4,8 +4,6 @@ title:  "Program for Best practices in data analysis and statistics symposium"
 ---
 ## [Best practices in data analysis and statistics symposium](index.html)
 
-The program is not final, expect to see some changes.
-
 The talks will be 15 minutes long, and the discussions will be practically unlimited.
 
 Some of the talk materials will be available on [OSF Meetings](https://osf.io/view/bestpracticessymposium2017/).
