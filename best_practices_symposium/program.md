@@ -73,7 +73,7 @@ The two major competing statistical approaches in today's psychological research
 
 __New cluster-analytic developments in ROPstat__
 
-_András Vargha (Károli Gáspár University, Eötvös Loránd University, Budapest)_
+_András Vargha (Károli Gáspár University, Institute of Psychology; Eötvös Loránd University, Institute of Psychology)_
 
 The presentation focuses on some new methods of the ROPstat statistical software that are important in the evaluation of the quality of a cluster solution, no matter, what type of cluster analysis (CA) was used. For this purpose a number of quality coefficients (QCs) are presented. For each QC there is a rule of thumb for the decision whether a solution can be judged as good, acceptable, or poor. However, a simulation study shows that even in random samples of independent normal variables the quality of a cluster solution depends highly on the number of variables and the number of clusters. Consequently, cluster results have to be related to a structure obtained by means of randomized input variables as a set of control variables. Four types of creating random control variables are introduced along with a new measure of relative improvement (called MORI), by means of which QC values can be evaluated. In the last part of the presentation a new feature of the Residue module of ROPstat is described, which allows the user to identify dense points (core points) in a multivariate data set.
 
