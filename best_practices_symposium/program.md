@@ -39,7 +39,7 @@ I want to introduce you the benefits of this new and flexible approach to the pr
 
 __RapidMiner GUI based data analytics tool: a tutorial__
 
-_Balázs Péter Hámornik (RapidMiner; Budapest University of Technology and Economics)_
+_Balázs Péter Hámornik (RapidMiner; Budapest University of Technology and Economics, Department of Ergonomics and Psychology)_
 
 RapidMiner is a data science platform designed to make analytics fast and simple. It provides a graphic user interface to design analytics processes and also capable to add code. Fast because of drag and drop and link operators as pieces of actions. Simple that it provides an overview of the whole analytics process in a visually explaining way that also can be annotated.
 
