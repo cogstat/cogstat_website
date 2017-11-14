@@ -55,7 +55,7 @@ In this tutorial, I’m going to demonstrate the capabilities described above in
 
 With these capabilities RapidMiner Studio can be successfully applied by researchers and students in cognitive science.
 
-__Automatic data analysis with CogStat__
+__Automatic data analysis with CogStat__ ([Slides](https://docs.google.com/presentation/d/1dHXCUDNFn7iZQ4jqexLo_o30uK56GdllPOqaJl2kPnU/edit?usp=sharing))
 
 _Attila Krajcsi (Eötvös Loránd University, Department of Cognitive Psychology)_
 
