@@ -12,6 +12,40 @@ Some of the talk materials will be available on [OSF Meetings](https://osf.io/vi
 
 #### Session 1: Analysis tools
 
+__Best tools and practices for collaborative open research__
+
+_Tamás Nagy (Eötvös Loránd University, Department of Personality and Health Psychology)_
+
+__Combining the power of R and Python: using Jupyter Notebook for data analysis__
+
+_Ádám Markója (Learning # Memory Research Group, Department of Cognitive Science, Budapest University of Technology and Economics)_
+
+__RapidMiner GUI based data analytics tool: a tutorial__
+
+_Balázs Péter Hámornik (RapidMiner; Budapest University of Technology and Economics, Department of Ergonomics and Psychology)_
+
+__Automatic data analysis with CogStat__
+
+_Attila Krajcsi (Eötvös Loránd University, Department of Cognitive Psychology)_
+
+#### Session 2: New methods 
+__Bayes Factor Analysis: Why and How?__
+
+_Balázs Aczél (Eötvös Loránd University, Faculty of Education and Psychology)_
+
+__New cluster-analytic developments in ROPstat__
+
+_András Vargha (Károli Gáspár University, Institute of Psychology; Eötvös Loránd University, Institute of Psychology)_
+
+__The network approach to psychopathology__
+
+_Bertalan Polner (Laboratory for Perception # Cognition and Clinical Neuroscience, Department of Cognitive Science, Budapest University of Technology and Economics)_
+
+__Why go multifractal?__
+
+_Zsolt Palatinus (University of Szeged)_
+
+### Abstracts
 
 __Best tools and practices for collaborative open research__
 
@@ -60,8 +94,6 @@ __Automatic data analysis with CogStat__
 _Attila Krajcsi (Eötvös Loránd University, Department of Cognitive Psychology)_
 
 Many times, when analyzing the data, the very same steps and decisions should be made. In most software solutions, these steps are independent tasks, and the researcher runs them individually. CogStat ([www.cogstat.org](http://www.cogstat.org)) is an automatic data analysis software which after a task is specified (e.g., compare groups, explore a variable pair, etc.), automatically compiles the relevant analyses, e.g., displays the raw data, calculates the descriptive statistics, calculates the effect sizes, runs the hypothesis tests with the appropriate assumption checks, calculates interval estimations, displays the results in APA format. Such an automatic data analysis can be useful for different reasons. First, researchers can analyze their data faster, more precisely and more consistently. Second, students can run their analysis more easily, and can learn new methods. Third, methodologists can consider automatic analysis software as a platform to make efficient methods more accessible and a platform to find consensus about best practices.
-
-#### Session 2: New methods
 
 __Bayes Factor Analysis: Why and How?__
 

@@ -30,7 +30,7 @@ __Supporter__ The symposium is supported by the [Faculty of Education and Psycho
 
 ### Program
 
-Find the program [here](program.html).
+Find the program and the abstracts [here](program.html).
 
 ### Call for abstracts
 
