@@ -65,7 +65,7 @@ Many times, when analyzing the data, the very same steps and decisions should be
 
 __Bayes Factor Analysis: Why and How?__
 
-_Balázs Aczél (Eötvös Loránd University)_
+_Balázs Aczél (Eötvös Loránd University, Faculty of Education and Psychology)_
 
 The two major competing statistical approaches in today's psychological research are the traditional Null-hypothesis Significance Testing (NHST) and the less frequently used Bayes Factor analysis. In this talk, I will argue why Bayes Factor Analysis is more adequate, appropriate and practical for psychology researchers. Despite the advantages of the Bayes Factor analysis, it posits a challenge to researchers, as it requires a different thinking about data-collection, evidence and conclusion. With luck, the talk will give guidelines to this task for those interested in opening their mind to modern statistical methods.
 
