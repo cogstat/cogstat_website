@@ -4,11 +4,13 @@ title:  "Program for Best practices in data analysis and statistics symposium"
 ---
 ## [Best practices in data analysis and statistics symposium](index.html)
 
+## Slides
+
+The talk materials are available on [OSF Meetings page of the symposium](https://osf.io/view/bestpracticessymposium2017/).
+
+## Program
+
 The talks will be 15 minutes long, and the discussions will be practically unlimited.
-
-Some of the talk materials will be available on [OSF Meetings](https://osf.io/view/bestpracticessymposium2017/).
-
-### Program
 
 #### Session 1: Analysis tools
 
@@ -28,6 +30,8 @@ __Automatic data analysis with CogStat__
 
 _Attila Krajcsi (Eötvös Loránd University, Department of Cognitive Psychology)_
 
+15 minutes break
+
 #### Session 2: New methods 
 __Bayes Factor Analysis: Why and How?__
 
@@ -45,7 +49,7 @@ __Why go multifractal?__
 
 _Zsolt Palatinus (University of Szeged)_
 
-### Abstracts
+## Abstracts
 
 __Best tools and practices for collaborative open research__
 

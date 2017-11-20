@@ -5,6 +5,12 @@ title:  "Best practices in data analysis and statistics symposium"
 ## Best practices in data analysis and statistics symposium
 
 
+### Program, abstracts and slides
+
+Find the program, the slides and the abstracts [here](program.html).
+
+__Feedback__ Give us a feedback after the symposium by [filling out this short form](https://goo.gl/forms/t3JrGyrs2nzlt5G83). Your feedback is essential for us whether a similar symposium is organized next year.
+
 ### About the symposium
 
 __Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](https://www.ppk.elte.hu/en), [Budapest, Kazinczy street, 23-27](https://www.google.hu/maps/@47.4981147,19.0627044,3a,75y,23.51h,86.1t/data=!3m6!1e1!3m4!1sgm__OBazQlCGeiJqLtIDbw!2e0!7i13312!8i6656), Room 203.
@@ -23,14 +29,8 @@ __Presentations__ Potential talks may include:
 
 __Register__ Admission is free, but because of the limited seats, please, register for the event [here](https://goo.gl/forms/jNpZcWuHzkkgbpz62).
 
-__Feedback__ Give us a feedback after the symposium by [filling out this short form](https://goo.gl/forms/t3JrGyrs2nzlt5G83).
+__Supporter__ The symposium is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en). We thank Fanni Tolmár for her help in organizing the event.
 
-__Supporter__ The symposium is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en).
-
-
-### Program
-
-Find the program and the abstracts [here](program.html).
 
 ### Call for abstracts
 
