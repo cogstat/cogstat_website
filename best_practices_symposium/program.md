@@ -4,11 +4,11 @@ title:  "Program for Best practices in data analysis and statistics symposium"
 ---
 ## [Best practices in data analysis and statistics symposium](index.html)
 
-## Slides
+### Slides
 
 The talk materials are available on [OSF Meetings page of the symposium](https://osf.io/view/bestpracticessymposium2017/).
 
-## Program
+### Program
 
 The talks will be 15 minutes long, and the discussions will be practically unlimited.
 
@@ -49,7 +49,7 @@ __Why go multifractal?__
 
 _Zsolt Palatinus (University of Szeged)_
 
-## Abstracts
+### Abstracts
 
 __Best tools and practices for collaborative open research__
 
