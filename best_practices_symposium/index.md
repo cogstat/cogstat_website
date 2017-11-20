@@ -7,7 +7,7 @@ title:  "Best practices in data analysis and statistics symposium"
 
 ### Program, abstracts and slides
 
-Find the program, the slides and the abstracts [here](program.html).
+__Talks__ Find the program, the slides and the abstracts [here](program.html).
 
 __Feedback__ Give us a feedback after the symposium by [filling out this short form](https://goo.gl/forms/t3JrGyrs2nzlt5G83). Your feedback is essential for us whether a similar symposium is organized next year.
 
