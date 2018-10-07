@@ -31,17 +31,17 @@ __Small group hands-on tutorials__ This year we introduce small group hands-on t
 * They may require participants to have their own computer with appropriate software installed on it
 * Participants will register separately for the tutorial sessions
 
-Submit your abstract by filling out [this form](https://goo.gl/forms/BEntBnJkGGDztSfh2).
+__Submission__ Submit your abstract by filling out [this form](https://goo.gl/forms/BEntBnJkGGDztSfh2).
 
-Deadline for abstract submission is December 2, 2018.
+__Deadline__ The deadline for abstract submission is December 2, 2018.
 
 ### More information
 
-For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu).
+__Contact__ For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu).
 
 __Supporter__ The symposium is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en). We thank Fanni Tolmár for her help in organizing the event.
 
-The symposium web site is hosted by [CogStat](https://www.cogstat.org).
+__Web hosting__ The symposium web site is hosted by [CogStat](https://www.cogstat.org).
 
 ### Program, abstracts and slides
 
