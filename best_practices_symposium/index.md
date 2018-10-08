@@ -4,7 +4,7 @@ title:  "Best practices in data analysis and statistics symposium"
 ---
 ## Second Best Practices in Data Analysis and Statistics Symposium
 
-(It is the second symposium, not the second best solutions.)
+(It is the second symposium, not the second best solution.)
 
 ### About the symposium
 
