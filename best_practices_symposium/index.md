@@ -16,7 +16,7 @@ __Website__ [http://www.cogstat.org/best_practices_symposium/](https://www.cogst
 
 __Aims__ While many new methods are developed these days that are applicable in behavioral sciences, many valuable older methods are not used, because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best practices symposium is to popularize either new or old solutions, to familiarize researchers with these methods, and to make these methods more accessible. In addition, the symposium is a great opportunity to discuss and evaluate various methods to improve research practice.
 
-__Previous symposium__ Although we expect to see some changes compared to the last year’s symposium, to get an impression about the symposium see the last year’s program [here](2017/index.html).
+__Previous symposium__ Although we expect to see some changes compared to the last year’s symposium, to get an impression about the symposium, see the last year’s program [here](2017/index.html).
 
 ### Call for abstracts
 
