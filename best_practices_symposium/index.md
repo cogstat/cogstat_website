@@ -37,7 +37,11 @@ __Deadline__ The deadline for abstract submission is December 2, 2018.
 
 ### More information
 
+__Registration fee__ There is no registration fee for the workshop.
+
 __Contact__ For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu).
+
+__Other events__ If you are coming to Budapest, you might consider attending the [Budapest CEU Conference on Cognitive Development](http://bcccd.org/) (January 3-5, 2019) or the [Methods in Numerical Cognition Workshop](https://www.thenumberworks.org/numerical_cognition_methods_workshop.html) (January 7, 2019), too.
 
 __Supporter__ The symposium is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en). We thank Fanni Tolmár for her help in organizing the event.
 
