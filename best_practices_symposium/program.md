@@ -20,19 +20,19 @@ __Resampling: doing classical statistics the easy way__
 
 _Ricardo Vieira (Central European University, Department of Cognitive Science)_
 
-9:00 Room 4 on ground floor, install Python to your computer for this tutorial.
+9:00, Room 4 on ground floor, install Python to your computer for this tutorial
 
 __Bayesian hypothesis testing__
 
-_Bence Bakos (ELTE, Institute of Psychology)_
+_Bence Bakos (ELTE Eötvös Loránd University, Institute of Psychology)_
 
-9:00 Room 302, install JASP to your computer for this tutorial.
+9:00, Room 302, install JASP to your computer for this tutorial
 
 __Have a different look at your data - CogStat__
 
 _Attila Krajcsi (ELTE Eötvös Loránd University, Institute of Psychology, Department of Cognitive Psychology)_ 
 
-9:00 Room 303, install CogStat to your computer for this tutorial.
+9:00, Room 303, install CogStat to your computer for this tutorial
 
 ### Talks
 
@@ -62,7 +62,7 @@ _Bertalan Polner (Department of Cognitive Science, BME)_
 
 __Smartphones as data collection devices for perception, action and cognition__
 
-_Zsolt Palatinus(University of Szeged, Institute of Psychology)_
+_Zsolt Palatinus (University of Szeged, Institute of Psychology)_
 
 __Accessible single-case statistical analyses tools__
 
@@ -88,7 +88,7 @@ My hope is that this tutorial will motivate an intuitive understanding of the ph
 
 __Bayesian hypothesis testing__
 
-_Bence Bakos (ELTE, Institute of Psychology_
+_Bence Bakos (ELTE Eötvös Loránd University, Institute of Psychology)_
 
 (Install JASP to your computer for this tutorial.)
 
@@ -110,7 +110,7 @@ Scientists have long been aware of questionable research practices (QRPs) that a
 
 __A new common language: StatOkos__
 
-_Csaba Kazinczi, Emese Alter, Adrienn Holczer (University of Szeged, Department of Psychology)
+_Csaba Kazinczi, Emese Alter, Adrienn Holczer (University of Szeged, Department of Psychology)_
 
 As young scholars, we all have faced the challenges of onducting and publishing our research. Acquiring the skills in experimental design, statistics, programming, creating charts and tables is a steep hill to climb. To acquire knowledge, we attended classes, read books or articles and gained some practical experience. Although, there is an agreement about what is the easiest way to open a spreadsheet program, can we say the same about different statistical procedures or editing a chart in APA Style? In addition, different educational institutions teach the basics of research methodology in slightly different ways.
 
@@ -122,7 +122,7 @@ We are continuously developing our website to make it more accurate and professi
 
 __Starting with predictive modeling made easy: RapidMiner Auto Model cloud application__
 
-_Balázs Péter Hámornik (RapidMiner / BME)_
+_Balázs Péter Hámornik (RapidMiner/BME)_
 
 Practitioners have their focus on their field’s problems to solve rather than the data science method to use and configure. Starting with predictive modelling is often hard and the value is uncertain that the choice of a predictive model and its predictions would deliver. Facing a steep learning curve in data science, domain experts (e.g. business analysts, researchers, students) can have a hard time matching the question with the right modelling method, implement it, and use the results for solving the problem.
 
