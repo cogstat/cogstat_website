@@ -96,7 +96,7 @@ Bayesian hypothesis testing offers an alternative approach to commonly used freq
 
 __Have a different look at your data - CogStat__
 
-_Attila Krajcsi (ELTE Eötvös Loránd University, Institute of Psychology, Department of Cognitive Psychology)
+_Attila Krajcsi (ELTE Eötvös Loránd University, Institute of Psychology, Department of Cognitive Psychology)_
 
 (Install CogStat to your computer for this tutorial.)
 
@@ -122,7 +122,7 @@ We are continuously developing our website to make it more accurate and professi
 
 __Starting with predictive modeling made easy: RapidMiner Auto Model cloud application__
 
-_Balázs Péter Hámornik (RapidMiner / BME)
+_Balázs Péter Hámornik (RapidMiner / BME)_
 
 Practitioners have their focus on their field’s problems to solve rather than the data science method to use and configure. Starting with predictive modelling is often hard and the value is uncertain that the choice of a predictive model and its predictions would deliver. Facing a steep learning curve in data science, domain experts (e.g. business analysts, researchers, students) can have a hard time matching the question with the right modelling method, implement it, and use the results for solving the problem.
 
@@ -136,7 +136,7 @@ Understanding the logic behind fundamental statistical methods can be facilitate
 
 __Smartphones as data collection devices for perception, action and cognition__
 
-_Zsolt Palatinus (University of Szeged, Institute of Psychology)
+_Zsolt Palatinus (University of Szeged, Institute of Psychology)_
 
 Multifractal (MF) analyses are relatively new analytical tools in cognitve science. The general approach is to take continuous displacement or energy expenditure readings from a person or an animal engaging in a cognitive task. The analysis allows for monitoring and predicting transitions, efficiency and disorders without making assumptions about the origins or the site of the emerging behavior. Data for cognitive MF analysis is usually collected with motion or eye trackers, EMG or EEG machines. At the Institute of Psychology at the University of Szeged, we recently explored the possibility of using built in smartphone sensors as data sources for MF inquiries. We started with a series reliabilty tests and then collected pilot data assessing a range of perceptual and cognitive behavior. In this report I share the results of our initial experiments and the paths we envision in using off-the-shelf devices for serious scientific work.
 
