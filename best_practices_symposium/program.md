@@ -8,10 +8,9 @@ title:  "Program for the Second Best Practices in Data Analysis and Statistics s
 
 We will ask the presenters to upload their slides to the [OSF Meetings page of the symposium](https://osf.io/view/bestpracticessymposium2019/).
 
+---
 
 ### Program
-
----
 
 ### Tutorials
 
@@ -21,29 +20,23 @@ __Resampling: doing classical statistics the easy way__
 
 _Ricardo Vieira (Central European University, Department of Cognitive Science)_
 
-9:00 Room 4
-
-Install Python to your computer for this tutorial.
+9:00 Room 4 on ground floor, install Python to your computer for this tutorial.
 
 __Bayesian hypothesis testing__
 
 _Bence Bakos (ELTE, Institute of Psychology)_
 
-9:00 Room 302 
-
-Install JASP to your computer for this tutorial.
+9:00 Room 302, install JASP to your computer for this tutorial.
 
 __Have a different look at your data - CogStat__
 
 _Attila Krajcsi (ELTE Eötvös Loránd University, Institute of Psychology, Department of Cognitive Psychology)_ 
 
-9:00 Room 303
-
-Install CogStat to your computer for this tutorial.
+9:00 Room 303, install CogStat to your computer for this tutorial.
 
 ### Talks
 
-The talks will be 15 minutes long, and the discussions will be practically unlimited.
+Talks start at 11:00 in Room 4 (ground floor). The talks will be 15 minutes long, and the discussions will be practically unlimited.
 
 #### General considerations
 
@@ -75,10 +68,9 @@ __Accessible single-case statistical analyses tools__
 
 _Attila Krajcsi (ELTE Eötvös Loránd University, Institute of Psychology, Department of Cognitive Psychology)_
 
+---
 
 ### Abstracts
-
----
 
 __Resampling: doing classical statistics the easy way__
 
