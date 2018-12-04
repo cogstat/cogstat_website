@@ -48,6 +48,10 @@ __A new common language: StatOkos__
 
 _Csaba Kazinczi, Emese Alter, Adrienn Holczer (University of Szeged, Department of Psychology)_
 
+__Who knows what var4 stands for? On the importance of research data management standards__
+
+_Márton Kovács (Institute of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary)_
+
 #### Software solutions
 
 __Starting with predictive modeling made easy: RapidMiner Auto Model cloud application__
@@ -119,6 +123,14 @@ To help future students and anyone interested, we started a new platform in the 
 Our offer is quite simple: Using your existing knowledge combined with StatOkos can lead you to the answers you seek. In case you do not have any experience at all, you can enhance your knowledge from the very beginning with examples, downloadable contents and practice tasks. 
 
 We are continuously developing our website to make it more accurate and professional. For this purpose, we are in contact with some of the psychological institutes in Hungary (ELTE and DTE) to share and exchange information. We hope this will provide the opportunity to create a „new common language” for psychology students and other social and life sciences. We present the current form of StatOkos and we will share our vision for the future.
+
+__Who knows what var4 stands for? On the importance of research data management standards__
+
+_Márton Kovács (Institute of Psychology, ELTE Eötvös Loránd University, Budapest, Hungary)_
+
+The past few years have witnessed an increase in data sharing in psychological research, as researchers understood that sharing data is profitable and desirable for their field. Still, for many, one of the reasons for not making their data openly available is that they have never learned how to properly share data. The lack of knowledge behind the practice of making data available and reusable has come to light when a recent study found that only 62% of the openly shared datasets of the inspected articles were reusable meaning that the data were complete and understandable (Hardwicke et al., 2018). In my presentation, I will explore and introduce the most recent developments in the discussion concerning research data management and the best practices to create reusable datasets. I will focus on the methods which could be adopted by labs or individual researchers and discuss the possibility of the development of field-wise data standards.
+
+Reference:Hardwicke, T. E., Mathur, M., MacDonald, K., Nilsonne, G., Banks, G. C., Kidwell, M. C., ... & Lenne, R. L. (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. Royal Society open science, 5(8), 180448. doi:10.1098/rsos.180448
 
 __Starting with predictive modeling made easy: RapidMiner Auto Model cloud application__
 
