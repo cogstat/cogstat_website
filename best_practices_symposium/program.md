@@ -20,19 +20,19 @@ __Resampling: doing classical statistics the easy way__
 
 _Ricardo Vieira (Central European University, Department of Cognitive Science)_
 
-9:00, Room 4 on ground floor, install Python to your computer for this tutorial
+9:00, Room 4 on ground floor, install Python on your computer for this tutorial
 
 __Bayesian hypothesis testing__
 
 _Bence Bakos (ELTE Eötvös Loránd University, Institute of Psychology)_
 
-9:00, Room 302, install JASP to your computer for this tutorial
+9:00, Room 302, install JASP on your computer for this tutorial
 
 __Have a different look at your data - CogStat__
 
 _Attila Krajcsi (ELTE Eötvös Loránd University, Institute of Psychology, Department of Cognitive Psychology)_ 
 
-9:00, Room 303, install CogStat to your computer for this tutorial
+9:00, Room 303, install CogStat on your computer for this tutorial
 
 ### Talks
 
@@ -80,7 +80,7 @@ __Resampling: doing classical statistics the easy way__
 
 _Ricardo Vieira (Central European University, Department of Cognitive Science)_
 
-(Install Python to your computer for this tutorial.)
+(Install Python on your computer for this tutorial.)
 
 Classical statistical testing is seldom well understood, in great part because too much attention is drawn to the least important aspects of it: what tests work with which kind of data, what are the assumptions of test X and Y, when is one test more appropriate than the other, when are they equivalent, what are their caveats, and so on. 
 
@@ -94,7 +94,7 @@ __Bayesian hypothesis testing__
 
 _Bence Bakos (ELTE Eötvös Loránd University, Institute of Psychology)_
 
-(Install JASP to your computer for this tutorial.)
+(Install JASP on your computer for this tutorial.)
 
 Bayesian hypothesis testing offers an alternative approach to commonly used frequentist practices. In this tutorial I offer a short introduction to the basics of Bayesian statistics, compare its analytical methods to traditional ways & show a few examples of hypothesis testing using JASP.
 
@@ -102,7 +102,7 @@ __Have a different look at your data - CogStat__
 
 _Attila Krajcsi (ELTE Eötvös Loránd University, Institute of Psychology, Department of Cognitive Psychology)_
 
-(Install CogStat to your computer for this tutorial.)
+(Install CogStat on your computer for this tutorial.)
 
 CogStat is an easy to use data analysis software that compiles the analysis automatically and displays and visualizes the results in a way which makes it easier to understand your data. Working with CogStat is efficient: For example, in a typical series of analysis steps it takes 13 steps in SPSS to compare the means of two groups, but it takes only 3 steps in CogStat to run the same analysis. In this tutorial, we review how to use CogStat, how it is different from other analysis software, and why displaying results unusually makes the data and statistical concepts more understandable. We also review some related unconventional solutions: For example, sample and population properties are displayed separately, measurement levels are displayed on charts, order of the values are displayed in ordinal variables, ordinal statistics are calculated for interval variables, mode is not a central tendency index, range is meaningless for ordinal variables.
 
