@@ -72,6 +72,10 @@ __Accessible single-case statistical analyses tools__
 
 _Attila Krajcsi (ELTE Eötvös Loránd University, Institute of Psychology, Department of Cognitive Psychology)_
 
+### General panel
+
+In the general panel anyone can raise an issue, ask a question, share important experience, etc., then anyone can reflect on that topic. The point is that problems that are not related to a specific talk can also be discussed here. Cool!
+
 ---
 
 ### Abstracts
