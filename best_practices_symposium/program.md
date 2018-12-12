@@ -28,7 +28,7 @@ _Bence Bakos (ELTE Eötvös Loránd University, Institute of Psychology)_
 
 9:00, Room 302, install JASP on your computer for this tutorial
 
-__Have a different look at your data - CogStat__
+__Have a different look at your data with CogStat__
 
 _Attila Krajcsi (ELTE Eötvös Loránd University, Institute of Psychology, Department of Cognitive Psychology)_ 
 
@@ -102,7 +102,7 @@ _Bence Bakos (ELTE Eötvös Loránd University, Institute of Psychology)_
 
 Bayesian hypothesis testing offers an alternative approach to commonly used frequentist practices. In this tutorial I offer a short introduction to the basics of Bayesian statistics, compare its analytical methods to traditional ways & show a few examples of hypothesis testing using JASP.
 
-__Have a different look at your data - CogStat__
+__Have a different look at your data with CogStat__
 
 _Attila Krajcsi (ELTE Eötvös Loránd University, Institute of Psychology, Department of Cognitive Psychology)_
 
