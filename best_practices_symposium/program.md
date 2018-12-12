@@ -54,13 +54,13 @@ _Márton Kovács (Institute of Psychology, ELTE Eötvös Loránd University, Bud
 
 #### Software solutions
 
-__Starting with predictive modeling made easy: RapidMiner Auto Model cloud application__
-
-_Balázs Péter Hámornik (RapidMiner/BME)_
-
 __Interactive visualizations for fundamental statistical methods in R__
 
 _Bertalan Polner (Department of Cognitive Science, BME)_
+
+__Starting with predictive modeling made easy: RapidMiner Auto Model cloud application__
+
+_Balázs Péter Hámornik (RapidMiner/BME)_
 
 #### Specific procedures
 
@@ -136,6 +136,12 @@ The past few years have witnessed an increase in data sharing in psychological r
 
 Reference:Hardwicke, T. E., Mathur, M., MacDonald, K., Nilsonne, G., Banks, G. C., Kidwell, M. C., ... & Lenne, R. L. (2018). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. Royal Society open science, 5(8), 180448. doi:10.1098/rsos.180448
 
+__Interactive visualizations for fundamental statistical methods in R__
+
+_Bertalan Polner (Department of Cognitive Science, BME)_
+
+Understanding the logic behind fundamental statistical methods can be facilitated by dynamic visualizations. These visualizations might be used as demonstrations in introductory stats courses. Moreover, coding such visualizations from scratch could be a fruitful exercise in advanced courses. In this talk, I will use a simple example to show how the power of the R language can be used for such purposes.
+
 __Starting with predictive modeling made easy: RapidMiner Auto Model cloud application__
 
 _Balázs Péter Hámornik (RapidMiner/BME)_
@@ -143,12 +149,6 @@ _Balázs Péter Hámornik (RapidMiner/BME)_
 Practitioners have their focus on their field’s problems to solve rather than the data science method to use and configure. Starting with predictive modelling is often hard and the value is uncertain that the choice of a predictive model and its predictions would deliver. Facing a steep learning curve in data science, domain experts (e.g. business analysts, researchers, students) can have a hard time matching the question with the right modelling method, implement it, and use the results for solving the problem.
 
 RapidMiner Auto Model cloud application is a web-based guided predictive modelling tool that helps domain experts starting with data science. Using a dataset, it suggests what features to use and it builds multiple appropriate predictive models for the classification or regression problem automatically. All suggestions and results are explained to help the choice of the best model. Evaluating the models with regard to the problem, the expert can choose the best one and use it for answering her question, or further optimise it in RapidMiner Studio to grow her data science skills. The web application presented in this talk provides an easy and guided start for domain experts with predictive modelling while letting the focus stay on the problem.
-
-__Interactive visualizations for fundamental statistical methods in R__
-
-_Bertalan Polner (Department of Cognitive Science, BME)_
-
-Understanding the logic behind fundamental statistical methods can be facilitated by dynamic visualizations. These visualizations might be used as demonstrations in introductory stats courses. Moreover, coding such visualizations from scratch could be a fruitful exercise in advanced courses. In this talk, I will use a simple example to show how the power of the R language can be used for such purposes.
 
 __Smartphones as data collection devices for perception, action and cognition__
 
