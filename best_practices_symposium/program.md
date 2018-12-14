@@ -20,7 +20,7 @@ __Resampling: doing classical statistics the easy way__
 
 _Ricardo Vieira (Central European University, Department of Cognitive Science)_
 
-9:00, Room 4 on ground floor, install Python on your computer for this tutorial
+9:00, Room 4 on ground floor, optional: install Python 3 on your computer for this tutorial
 
 __Bayesian hypothesis testing__
 
@@ -84,7 +84,7 @@ __Resampling: doing classical statistics the easy way__
 
 _Ricardo Vieira (Central European University, Department of Cognitive Science)_
 
-(Install Python on your computer for this tutorial.)
+(Optional: Install Python 3 on your computer for this tutorial.)
 
 Classical statistical testing is seldom well understood, in great part because too much attention is drawn to the least important aspects of it: what tests work with which kind of data, what are the assumptions of test X and Y, when is one test more appropriate than the other, when are they equivalent, what are their caveats, and so on. 
 
