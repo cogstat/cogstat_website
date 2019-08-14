@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: documentation
 title:  "Explore variable"
 section_id: get_help
 ---
