@@ -3,7 +3,7 @@ layout: documentation
 title:  "Explore variable"
 section_id: get_help
 ---
-<link href="toc.html" rel="import" />
+{% include_relative toc.html %}
 
 # Explore variable
 From the `Analysis` menu choose `Explore variable`, and choose the variable(s) you want to analyze, then hit OK.
