@@ -22,8 +22,8 @@ section_id: download
     <div class="medium-3 large-3 columns">
         <div class="fadein mod modIconText" data-delay="400">
             <div class="icon-text-circle">
-                <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-cogstat-on-linux"><i class="fa fa-linux"></i></a>
-                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-cogstat-on-linux">Download CogStat for Linux</a></h3>
+                <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-and-use-cogstat-on-linux"><i class="fa fa-linux"></i></a>
+                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-and-use-cogstat-on-linux">Download CogStat for Linux</a></h3>
             </div>
         </div>
     </div>
@@ -31,8 +31,8 @@ section_id: download
     <div class="medium-3 large-3 columns">
         <div class="fadein mod modIconText" data-delay="600">
             <div class="icon-text-circle">
-                <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-cogstat-on-mac"><i class="fa fa-apple"></i></a>
-                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-cogstat-on-mac">Download CogStat for Mac</a></h3>
+                <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-and-use-cogstat-on-mac"><i class="fa fa-apple"></i></a>
+                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-and-use-cogstat-on-mac">Download CogStat for Mac</a></h3>
             </div>
         </div>
     </div>
