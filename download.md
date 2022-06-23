@@ -11,29 +11,29 @@ section_id: download
 
 <div class="row" style="width: 60vw">
     
-    <div class="medium-3 large-3 columns">
+    <div class="medium-4 large-4 columns">
         <div class="fadein mod modIconText" data-delay="200">
             <div class="icon-text-circle">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfHOGE3O-L2g9XihSHj-bvWDLJnYMot-moWhZ1jgbXcKHMFqg/viewform"><i class="fa fa-windows"></i></a>
-                <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSfHOGE3O-L2g9XihSHj-bvWDLJnYMot-moWhZ1jgbXcKHMFqg/viewform">Download CogStat for Windows</a></h3>
+                <a href="download_windows_stable.html"><i class="fa fa-windows"></i></a>
+                <h3><a href="download_windows_stable.html">Download CogStat for Windows</a></h3>
             </div>
         </div>
     </div>
     
-    <div class="medium-3 large-3 columns">
+    <div class="medium-4 large-4 columns">
         <div class="fadein mod modIconText" data-delay="400">
             <div class="icon-text-circle">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfHOGE3O-L2g9XihSHj-bvWDLJnYMot-moWhZ1jgbXcKHMFqg/viewform"><i class="fa fa-apple"></i></a>
-                <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSfHOGE3O-L2g9XihSHj-bvWDLJnYMot-moWhZ1jgbXcKHMFqg/viewform">Download CogStat for Mac</a></h3>
+                <a href="download_mac_stable.html"><i class="fa fa-apple"></i></a>
+                <h3><a href="download_mac_stable.html">Download CogStat for Mac</a></h3>
             </div>
         </div>
     </div>
     
-    <div class="medium-3 large-3 columns">
+    <div class="medium-4 large-4 columns">
         <div class="fadein mod modIconText" data-delay="600">
             <div class="icon-text-circle">
-                <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-and-use-cogstat-on-linux"><i class="fa fa-linux"></i></a>
-                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-and-use-cogstat-on-linux">Download CogStat for Linux</a></h3>
+                <a href="download_python_stable.html"><i class="fa fa-linux"></i></a>
+                <h3><a href="download_python_stable.html">Download CogStat for Linux</a></h3>
             </div>
         </div>
     </div>
