@@ -55,7 +55,7 @@ section_id: download
         <div class="fadein mod modIconText" data-delay="1000">
             <div class="icon-text-circle">
                 <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-the-preview-versions-of-cogstat"><i class="fa fa-flask"></i></a>
-                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-the-preview-versions-of-cogstat">Install the preview release</a></h3>
+                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-the-preview-versions-of-cogstat">Download the preview release</a></h3>
             </div>
         </div>
     </div>
@@ -64,7 +64,7 @@ section_id: download
         <div class="fadein mod modIconText" data-delay="1200">
             <div class="icon-text-circle">
                 <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-cogstat-in-your-existing-python-installation-for-smaller-installer-size-or-to-use-it-in-jupyter-notebook"><i class="fa fa-code"></i></a>
-                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-cogstat-in-your-existing-python-installation-for-smaller-installer-size-or-to-use-it-in-jupyter-notebook">Install CogStat for Python installation</a></h3>
+                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-cogstat-in-your-existing-python-installation-for-smaller-installer-size-or-to-use-it-in-jupyter-notebook">Download CogStat for Python installation</a></h3>
             </div>
         </div>
     </div>
