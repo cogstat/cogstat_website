@@ -38,6 +38,10 @@ section_id: download
         </div>
     </div>
     
+</div>
+
+<div class="row" style="width: 60vw">
+
     <div class="medium-3 large-3 columns">
         <div class="fadein mod modIconText" data-delay="800">
             <div class="icon-text-circle">
@@ -50,8 +54,8 @@ section_id: download
     <div class="medium-3 large-3 columns">
         <div class="fadein mod modIconText" data-delay="1000">
             <div class="icon-text-circle">
-                <a href="https://github.com/cogstat/cogstat/wiki/Installation"><i class="fa fa-flask"></i></a>
-                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation">Download the preview release</a></h3>
+                <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-the-preview-versions-of-cogstat"><i class="fa fa-flask"></i></a>
+                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-the-preview-versions-of-cogstat">Download the preview release</a></h3>
             </div>
         </div>
     </div>
@@ -59,8 +63,8 @@ section_id: download
     <div class="medium-3 large-3 columns">
         <div class="fadein mod modIconText" data-delay="1200">
             <div class="icon-text-circle">
-                <a href="https://github.com/cogstat/cogstat/wiki/Installation"><i class="fa fa-code"></i></a>
-                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation">Download CogStat for Python installation</a></h3>
+                <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-the-preview-versions-of-cogstat"><i class="fa fa-code"></i></a>
+                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-the-preview-versions-of-cogstat">Download CogStat for Python installation</a></h3>
             </div>
         </div>
     </div>
