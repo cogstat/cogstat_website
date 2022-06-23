@@ -21,7 +21,7 @@ section_id: download
     </div>
     
     <div class="medium-3 large-3 columns">
-        <div class="fadein mod modIconText" data-delay="600">
+        <div class="fadein mod modIconText" data-delay="400">
             <div class="icon-text-circle">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfHOGE3O-L2g9XihSHj-bvWDLJnYMot-moWhZ1jgbXcKHMFqg/viewform"><i class="fa fa-apple"></i></a>
                 <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSfHOGE3O-L2g9XihSHj-bvWDLJnYMot-moWhZ1jgbXcKHMFqg/viewform">Download CogStat for Mac</a></h3>
@@ -30,7 +30,7 @@ section_id: download
     </div>
     
     <div class="medium-3 large-3 columns">
-        <div class="fadein mod modIconText" data-delay="400">
+        <div class="fadein mod modIconText" data-delay="600">
             <div class="icon-text-circle">
                 <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-and-use-cogstat-on-linux"><i class="fa fa-linux"></i></a>
                 <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-and-use-cogstat-on-linux">Download CogStat for Linux</a></h3>
@@ -46,7 +46,25 @@ section_id: download
             </div>
         </div>
     </div>
+
+    <div class="medium-3 large-3 columns">
+        <div class="fadein mod modIconText" data-delay="1000">
+            <div class="icon-text-circle">
+                <a href="https://github.com/cogstat/cogstat/wiki/Installation"><i class="fa fa-flask"></i></a>
+                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation">Download the preview release</a></h3>
+            </div>
+        </div>
+    </div>
     
+    <div class="medium-3 large-3 columns">
+        <div class="fadein mod modIconText" data-delay="1200">
+            <div class="icon-text-circle">
+                <a href="https://github.com/cogstat/cogstat/wiki/Installation"><i class="fa fa-code"></i></a>
+                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation">Download CogStat for Python installation</a></h3>
+            </div>
+        </div>
+    </div>
+
 </div>
 
 <div class='four spacing'></div>
