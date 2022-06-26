@@ -41,8 +41,8 @@ section_id: download
     <div class="medium-3 large-3 columns">
         <div class="fadein mod modIconText" data-delay="800">
             <div class="icon-text-circle">
-                <a href="https://github.com/cogstat/cogstat/wiki/Installation#install-cogstat-in-your-existing-python-installation-for-smaller-installer-size-or-to-use-it-in-jupyter-notebook"><i class="fa fa-code"></i></a>
-                <h3><a href="https://github.com/cogstat/cogstat/wiki/Installation#install-cogstat-in-your-existing-python-installation-for-smaller-installer-size-or-to-use-it-in-jupyter-notebook">Download CogStat for Python installation</a></h3>
+                <a href="download_python_stable.html"><i class="fa fa-code"></i></a>
+                <h3><a href="download_python_stable.html">Download CogStat for Python installation</a></h3>
             </div>
         </div>
     </div>
