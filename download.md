@@ -50,6 +50,7 @@ section_id: download
 </div>
 
 <div class="row" style="width: 60vw">
+    <div class='four spacing'></div>
 
     <div class="medium-4 large-4 columns">
         <div class="fadein mod modIconText" data-delay="1000">
