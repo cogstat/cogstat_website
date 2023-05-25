@@ -8,4 +8,4 @@ title:  "Best practices in data analysis and statistics symposium"
 
 We're coming back! Check back later for details.
 
-In te meantime, check the details of the [first](2017/index.html) and [second](2019/index.html) symposiums.
+In the meantime, check the details of the [first](2017/index.html) and [second](2019/index.html) symposiums.
