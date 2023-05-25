@@ -5,9 +5,9 @@ title:  "Best practices in data analysis and statistics symposium"
 ## Best practices in data analysis and statistics symposium
 
 
-### Program, abstracts and slides
+### Program, abstracts, and slides
 
-__Talks__ Find the program, the slides and the abstracts [here](program.html).
+__Talks__ Find the program, the slides, and the abstracts [here](program.html).
 
 __Feedback__ Give us feedback after the symposium by [filling out this short form](https://goo.gl/forms/t3JrGyrs2nzlt5G83). Your feedback is essential for us whether a similar symposium is organized next year.
 
@@ -17,7 +17,7 @@ __Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](htt
 
 __Date__ 17 November 2017, 12:00
 
-__Website__ [http://www.cogstat.org/best_practices_symposium/](http://www.cogstat.org/best_practices_symposium/)
+__Website__ [http://www.cogstat.org/best_practices_symposium/2017/](http://www.cogstat.org/best_practices_symposium/2017/)
 
 __Aims__ While many new methods are developed these days that are applicable in behavioral sciences, many valuable older methods are not used, because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best practices symposium is to popularize either new or old solutions, to familiarize researchers with these methods, and to make these methods more accessible. In addition, the symposium is a great opportunity to discuss and evaluate various methods to improve research practice. 
 
