@@ -12,7 +12,7 @@ __Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](htt
 
 __Date__ January 9, 2019
 
-__Website__ [https://www.cogstat.org/best_practices_symposium/](https://www.cogstat.org/best_practices_symposium/)
+__Website__ [https://www.cogstat.org/best_practices_symposium/2019/](https://www.cogstat.org/best_practices_symposium/2019/)
 
 __Aims__ While many new methods are developed these days that are applicable in behavioral sciences, many valuable older methods are not used, because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best practices symposium is to popularize either new or old solutions, to familiarize researchers with these methods, and to make these methods more accessible. In addition, the symposium is a great opportunity to discuss and evaluate various methods to improve research practice.
 
@@ -30,7 +30,7 @@ __Contact__ For more information contact [Attila Krajcsi](mailto:krajcsi.attila@
 
 __Previous symposium__ See the last year’s program [here](2017/index.html).
 
-__Other events__ If you are coming to Budapest, you might consider attending the [Budapest CEU Conference on Cognitive Development](http://bcccd.org/) (January 3-5, 2019) or the [Methods in Numerical Cognition Workshop](https://www.thenumberworks.org/numerical_cognition_methods_workshop.html) (January 7, 2019), too.
+__Other events__ If you are coming to Budapest, you may consider attending the [Budapest CEU Conference on Cognitive Development](http://bcccd.org/) (January 3-5, 2019) or the [Methods in Numerical Cognition Workshop](https://www.thenumberworks.org/numerical_cognition_methods_workshop.html) (January 7, 2019), too.
 
 __Supporter__ The symposium is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en). We thank Fanni Tolmár for her help in organizing the event.
 
@@ -46,7 +46,7 @@ __Presentations__ Potential talks may include:
 * Demonstration of software solutions that could make the analysis more efficient
 * Presentation of tutorials that introduce either new or older methods
 
-__Small group hands-on tutorials__ This year we introduce small group hands-on tutorials. Potential tutorials may be:
+__Small group hands-on tutorials__ This year, we introduce small group hands-on tutorials. Potential tutorials may be:
 * 60-120 minutes long
 * They may require participants to have their own computer with appropriate software installed on it
 * Participants will register separately for the tutorial sessions
