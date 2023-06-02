@@ -27,9 +27,9 @@ __Abstracts__ You’ll find the detailed program, the abstracts, and the slides 
 
 ### Call for abstracts
 
-__Presentations__ Potential talks may include:
+__Presentations__ Potential talks on the first day may include:
 * Presentation of new methods, preferably also offering computational tools
-* Presentation of older methods, that are hardly known among researchers
+* Presentation of older methods, that are less known among researchers
 * Demonstration of software solutions that could make the analysis more efficient
 * Presentation of tutorials that introduce either new or older methods
 
@@ -42,7 +42,7 @@ __Submission__ Submit your abstract by filling out [this form](https://forms.gle
 
 __Deadline__ The deadline for abstract submission is July 23, 2023.
 
-## Registration for participants
+### Registration for participants
 
 __Registration fee__ There is no registration fee for the workshop.
 
@@ -50,7 +50,7 @@ __Register__ You can register as a participant after July 26, 2023. <!--Admissio
 
 ### More information
 
-__Contact__ For more information, contact [András Zsidó](zsido.andras@pte.hu) or [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu).
+__Contact__ For more information, contact [András Zsidó](mailto:zsido.andras@pte.hu) or [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu).
 
 __Previous symposiums__ Check the details of the [first](2017/index.html) and [second](2019/index.html) symposiums.
 
@@ -59,4 +59,3 @@ __Supporter__ The symposium is supported by the [Institute of Psychology, Univer
 __Web hosting__ The symposium website is hosted by [CogStat](https://www.cogstat.org).
 
 <div class='four spacing'></div>
-
