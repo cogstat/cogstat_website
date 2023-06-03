@@ -52,6 +52,8 @@ __Register__ You can register as a participant after July 26, 2023. <!--Admissio
 
 __Contact__ For more information, contact [András Zsidó](mailto:zsido.andras@pte.hu) or [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu).
 
+__Social media__ Find some friends coming to the symposium at [Facebook event](https://www.facebook.com/events/1434674503975208/).
+
 __Previous symposiums__ Check the details of the [first](2017/index.html) and [second](2019/index.html) symposiums.
 
 __Supporter__ The symposium is supported by the [Institute of Psychology, University of Pécs](https://btk.pte.hu/en/institute-of-psychology).
