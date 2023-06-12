@@ -23,7 +23,7 @@ __Program__
 * September 7, 19:00 Dinner and socializing
 * September 8, 9:00 Hands-on tutorials
 
-__Abstracts__ You’ll find the detailed program, the abstracts, and the slides after the submission is closed.
+__Abstracts__ You’ll find the detailed program, the abstracts, and the [slides](https://osf.io/meetings/bestpracticessymposium2023) after the submission is closed.
 
 ### Call for abstracts
 
