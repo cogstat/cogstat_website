@@ -20,14 +20,14 @@ __Aims__ While many new methods are developed these days that are applicable in 
 
 __Detailed program__
 * September 7
-  * 11:00 Presentations
-  * 14:00 Lunch
-  * 15:00 Hands-on tutorials
-  * 19:00 Dinner and socializing
+  * 11:00-14:00 Presentations
+  * 14:00-15:00 Lunch break
+  * 15:00-18:00 Hands-on tutorials
+  * 19:00- Dinner and socializing
 * September 8
-  * 9:00 Hands-on tutorials
-  * 12:00 Lunch
-  * 13:00 Hands-on tutorials
+  * 9:00-12:00 Hands-on tutorials
+  * 12:00-13:00 Lunch break
+  * 13:00-15:00 Hands-on tutorials
 
 __Abstracts__ Find the [detailed program, the abstracts](https://docs.google.com/document/d/1Oq7GXxPUwMO8Br9KVFRN7U7RDPDAbdgY/edit?usp=sharing&ouid=100583166572315508937&rtpof=true&sd=true), and the [slides](https://osf.io/meetings/bestpracticessymposium2023) following these links.
 
