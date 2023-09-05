@@ -27,7 +27,7 @@ __Detailed program__
 * September 8
   * 9:00-12:00 Hands-on tutorials
   * 12:00-13:00 Lunch break
-  * 13:00-15:00 Hands-on tutorials
+  * 13:00-14:00 Hands-on tutorials
 
 __Abstracts__ Find the [detailed program, the abstracts](https://docs.google.com/document/d/1Oq7GXxPUwMO8Br9KVFRN7U7RDPDAbdgY/edit?usp=sharing&ouid=100583166572315508937&rtpof=true&sd=true), and the [slides](https://osf.io/meetings/bestpracticessymposium2023) following these links.
 
