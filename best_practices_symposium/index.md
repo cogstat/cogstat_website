@@ -8,7 +8,7 @@ title:  "Best practices in data analysis and statistics symposium"
 
 ### About the symposium
 
-__Venue__ University of Pécs, [Institute of Psychology](https://btk.pte.hu/en/institute-of-psychology), [Pécs, Ifjúság street, 6.](https://osm.org/go/0KHqHfaT8?m=), Building B.
+__Venue__ University of Pécs, [Institute of Psychology](https://btk.pte.hu/en/institute-of-psychology), [Pécs, Ifjúság street, 6.](https://osm.org/go/0KHqHdsh5?m=), __Building A, Damján Vargha Conference room (Note that due to large number of participants, the room was changed!)__.
 
 __Date__ September 7-8, 2023
 
