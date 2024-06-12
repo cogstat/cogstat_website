@@ -1,8 +1,8 @@
 ---
 layout: best_practices_symposium
-title:  "Best practices in data analysis and statistics symposium"
+title:  "Best approaches in data analysis and statistics symposium"
 ---
-## Fourth Best Practices in Data Analysis and Statistics Symposium
+## Fourth Best Approaches in Data Analysis and Statistics Symposium
 
 (Again, it is the fourth symposium, not the fourth-best solution.)
 
