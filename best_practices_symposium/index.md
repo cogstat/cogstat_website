@@ -9,4 +9,4 @@ Best Practices in Data Analysis and Statistics Symposium is now [Best Approaches
 
 With this new name, the abbreviation of the symposium makes sense.
 
-We believe the new name is badass.
+We believe the new name is ... wait for it ... cool.
