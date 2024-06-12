@@ -28,7 +28,7 @@ __Registration fee__ There is no registration fee for the workshop.
 
 __Contact__ For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu).
 
-__Previous symposium__ See the last year’s program [here](2017/index.html).
+__Previous symposium__ See the last year’s program [here](../2017/index.html).
 
 __Other events__ If you are coming to Budapest, you may consider attending the [Budapest CEU Conference on Cognitive Development](http://bcccd.org/) (January 3-5, 2019) or the [Methods in Numerical Cognition Workshop](https://www.thenumberworks.org/numerical_cognition_methods_workshop.html) (January 7, 2019), too.
 
