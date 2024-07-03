@@ -32,7 +32,7 @@ __Small group hands-on tutorials__ On the second day, small group hands-on tutor
 
 __Submission__ Submit your abstract by filling out [this form](https://forms.gle/54wKzPvpqG2JfoWe8).
 
-__Deadline__ The deadline for abstract submission is July 23, 2023.
+__Deadline__ The deadline for abstract submission is July 23, 2024.
 
 ### Program, abstracts, and slides
 
@@ -42,7 +42,7 @@ You’ll find the detailed program after July 26
 
 __Registration fee__ There is no registration fee for the workshop.
 
-__Register__ Admission is free, but because of the limited seats, please, [register for the event](https://forms.gle/c7T1GjyC14fviQUQ7). Registration will be available after July 26.
+__Register__ Admission is free, but because of the limited seats, please register for the event. Registration will be available after July 26. <!---https://forms.gle/c7T1GjyC14fviQUQ7--->
 
 ### More information
 
