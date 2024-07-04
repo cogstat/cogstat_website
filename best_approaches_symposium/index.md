@@ -36,7 +36,7 @@ __Deadline__ The deadline for abstract submission is July 23, 2024.
 
 ### Program, abstracts, and slides
 
-You’ll find the detailed program after July 26
+The detailed program will be available after July 26. The slides will be available [here](https://osf.io/meetings/bestpracticessymposium2023).
 
 ### Registration for participants
 
