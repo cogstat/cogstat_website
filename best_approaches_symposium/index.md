@@ -48,6 +48,8 @@ __Register__ Admission is free, but because of the limited seats, please registe
 
 __Contact__ For more information, contact [Zsolt Palatinus](mailto:zsolt.palatinus@gmail.com), [András Zsidó](mailto:zsido.andras@pte.hu) or [Attila Krajcsi](mailto:krajcsi@gmail.com).
 
+__Social media__ Find some friends coming to the symposium at [Facebook event](https://www.facebook.com/events/7796899507071182/).
+
 __Previous symposiums__ Check the details of the [first](2017/index.html), [second](2019/index.html), and [third](2023/index.html) symposiums.
 
 __Web hosting__ The symposium website is hosted by [CogStat](https://www.cogstat.org).
