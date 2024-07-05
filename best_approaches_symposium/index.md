@@ -46,7 +46,7 @@ __Register__ Admission is free, but because of the limited seats, please registe
 
 ### More information
 
-__Contact__ For more information, contact [Zsolt Palatinus](mailto:zsolt.palatinus@gmail.com), [András Zsidó](mailto:zsido.andras@pte.hu) or [Attila Krajcsi](mailto:krajcsi@gmail.com).
+__Contact__ For more information, contact [Zsolt Palatinus](mailto:zsolt.palatinus@gmail.com) (SZTE, BTK), [András Zsidó](mailto:zsido.andras@pte.hu) (PTE, BTK) or [Attila Krajcsi](mailto:krajcsi@gmail.com) (ELTE, PPK).
 
 __Social media__ Find some friends coming to the symposium at [Facebook event](https://www.facebook.com/events/7796899507071182/).
 
