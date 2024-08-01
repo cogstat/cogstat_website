@@ -12,7 +12,7 @@ __Venue__ University of Pécs, [Institute of Psychology](https://btk.pte.hu/en/i
 
 __Date__ September 7-8, 2023
 
-__Website__ [https://www.cogstat.org/best_practices_symposium/](https://www.cogstat.org/best_practices_symposium/)
+__Website__ [https://www.cogstat.org/best_approaches_symposium/2023/](https://www.cogstat.org/best_approaches_symposium/2023/)
 
 __Aims__ While many new methods are developed these days that are applicable in behavioral sciences, many valuable older methods are not used because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best practices symposium is to popularize either new or old solutions, familiarize researchers with these methods, and make these methods more accessible. In addition, the symposium is an excellent opportunity to discuss and evaluate various methods to improve research practice.
 
