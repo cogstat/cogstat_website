@@ -9,7 +9,7 @@ title:  "Best approaches in data analysis and statistics symposium"
 
 ### About the symposium
 
-__Venue__ University of Szeged, [Institute of Psychology](https://www.pszich.u-szeged.hu/), [Szeged, Egyetem street 2, BTK building](https://osm.org/go/0KlyHIXRG?m=).
+__Venue__ University of Szeged, [Institute of Psychology](https://www.pszich.u-szeged.hu/), [Szeged, Egyetem street 2, BTK building](https://osm.org/go/0KlyHIXRG?m=), room Krajkó, on the 3rd (top) floor.
 
 __Date__ September 5, 2024
 
