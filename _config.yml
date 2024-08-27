@@ -11,6 +11,8 @@ github_username:
 # Build settings
 markdown: kramdown
 
+plugins:
+  - jekyll-sitemap
 
 paginate: 3
 paginate_path: "blog/page:num"
