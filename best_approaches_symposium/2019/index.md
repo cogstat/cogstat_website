@@ -12,7 +12,7 @@ __Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](htt
 
 __Date__ January 9, 2019
 
-__Website__ [https://www.cogstat.org/best_practices_symposium/2019/](https://www.cogstat.org/best_practices_symposium/2019/)
+__Website__ [https://www.cogstat.org/best_approaches_symposium/2019/](https://www.cogstat.org/best_approaches_symposium/2019/)
 
 __Aims__ While many new methods are developed these days that are applicable in behavioral sciences, many valuable older methods are not used, because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best practices symposium is to popularize either new or old solutions, to familiarize researchers with these methods, and to make these methods more accessible. In addition, the symposium is a great opportunity to discuss and evaluate various methods to improve research practice.
 
