@@ -21,7 +21,7 @@ __Aims__ While many new methods are developed these days that are applicable in 
 
 Find the [detailed program and the abstracts here](https://docs.google.com/document/d/1vFYiH9hUAN36ltklTdAeop32lsGzO5mj/edit?usp=sharing&ouid=100583166572315508937&rtpof=true&sd=true).
 
-The slides will be available [here](https://osf.io/meetings/bestapproachessymposium2024).
+The slides are available [here](https://osf.io/meetings/bestapproachessymposium2024).
 
 ### Registration for participants
 
