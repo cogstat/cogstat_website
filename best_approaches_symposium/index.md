@@ -23,6 +23,8 @@ Find the [detailed program and the abstracts here](https://docs.google.com/docum
 
 The slides are available [here](https://osf.io/meetings/bestapproachessymposium2024).
 
+Find a few photos [here](https://photos.app.goo.gl/LDm24jFyvN1QdyCS9).
+
 ### Registration for participants
 
 __Registration fee__ There is no registration fee for the workshop.
