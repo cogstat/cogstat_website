@@ -23,9 +23,9 @@ __Presentations__ Potential talks on the first day may include:
 * Presentation of new methods, preferably also offering computational tools
 * Presentation of older methods that are less well-known among researchers
 * Demonstration of software solutions that could make the analysis more efficient
-* Presentation of tutorials that introduce either new or older methods
+* Tutorials that introduce either new or older methods
 
-__Small group hands-on tutorials__ On the second day, small group hands-on tutorials can also be given. Potential tutorials may be:
+__TBD Small-group hands-on tutorials__ On the second day, small-group hands-on tutorials can also be offered. Potential tutorials may be:
 * 60-120 minutes long
 * They may require participants to have their own computer with appropriate software installed on it
 * Participants will register separately for the tutorial sessions
