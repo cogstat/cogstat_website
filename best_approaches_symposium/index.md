@@ -7,6 +7,8 @@ title:  "Best approaches in data analysis and statistics symposium"
 
 (Again, it is the fifth symposium, not the fifth-best solution.)
 
+![Fifth Best Approaches in Data Analysis and Statistics Symposium Flyer](https://drive.google.com/file/d/19_ZWgBegpNofiwry2xW6YzkrrgyQ65v_/view?usp=sharing)
+
 ### About the symposium
 
 __Venue__ University of Pécs, [Institute of Psychology](https://btk.pte.hu/en/institute-of-psychology), [Pécs, Ifjúság street, 6., Building B](https://osm.org/go/0KHqHfame?m=) (details TBA)
