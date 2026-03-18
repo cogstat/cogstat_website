@@ -38,7 +38,7 @@ __Deadline__ The deadline for abstract submission is May 31, 2026.
 
 The [detailed program and the abstracts will be available here](https://docs.google.com/document/d/1qRYoDwI7MSGebyXMj5KkcHBvEoUynjRyQRsvLYDFz8g/edit?usp=sharing).
 
-The slides will be available at TBA.
+The slides will be available in [Proton Drive](https://drive.proton.me/urls/8X7HJ82A3G#kICVq8Q5PGQq).
 
 ### Registration for participants
 
@@ -55,6 +55,5 @@ __Social media__ Find some friends coming to the symposium on social media (TBA)
 __Previous symposiums__ Check the details of the [first](2017/index.html), [second](2019/index.html), [third](2023/index.html), and [fourth](2024/index.html) symposiums.
 
 __Web hosting__ The symposium website is hosted by [CogStat](https://www.cogstat.org).
-
 
 <div class='four spacing'></div>
