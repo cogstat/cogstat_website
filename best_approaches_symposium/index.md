@@ -7,7 +7,7 @@ title:  "Best approaches in data analysis and statistics symposium"
 
 (Again, it is the fifth symposium, not the fifth-best solution.)
 
-![Fifth Best Approaches in Data Analysis and Statistics Symposium Flyer](https://lh3.googleusercontent.com/d/19_ZWgBegpNofiwry2xW6YzkrrgyQ65v_)
+![Fifth Best Approaches in Data Analysis and Statistics Symposium Flyer](https://drive.google.com/thumbnail?id=1XmVMWARBdlDZRFb8aKieRpAFEfhuxoyo&sz=s4000)
 
 ### About the symposium
 
