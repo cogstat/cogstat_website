@@ -21,7 +21,7 @@ __Aims__ While many new methods are developed these days that are applicable in 
 
 ### Call for abstracts
 
-__Presentations__
+__Possible presentation types__
 * Presentation of new methods, preferably also offering computational tools
 * Presentation of older methods that are less well-known among researchers
 * Demonstration of software solutions that could make the analysis more efficient
