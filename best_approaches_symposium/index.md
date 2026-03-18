@@ -9,7 +9,7 @@ title:  "Best approaches in data analysis and statistics symposium"
 
 ### About the symposium
 
-__Venue__ University of Pécs, [Institute of Psychology](https://btk.pte.hu/en/institute-of-psychology), [Pécs, Ifjúság street, 6.](https://osm.org/go/0KHqHfG1B?m=) (details TBA)
+__Venue__ University of Pécs, [Institute of Psychology](https://btk.pte.hu/en/institute-of-psychology), [Pécs, Ifjúság street, 6., Building B](https://osm.org/go/0KHqHfame?m=) (details TBA)
 
 __Date__ September 23, 2026
 
@@ -32,7 +32,7 @@ __TBD Small-group hands-on tutorials__ On the second day, small-group hands-on t
 
 __Submission__ Submit your abstract by filling out [this form](https://forms.gle/gbD2dATudydwgvde7).
 
-__Deadline__ The deadline for abstract submission is TBA, 2026.
+__Deadline__ The deadline for abstract submission is May 31, 2026.
 
 ### Program, abstracts, and slides
 
