@@ -52,7 +52,7 @@ __Register__ Admission is free, but due to limited seats, please [register for t
 
 __Contact__ For more information, contact [András Zsidó](mailto:zsido.andras@pte.hu) (PTE, BTK), [Zsolt Palatinus](mailto:zsolt.palatinus@gmail.com) (SZTE, BTK), or [Attila Krajcsi](mailto:krajcsi.attila@proton.me) (ELTE, PPK).
 
-__Social media__ Find some friends coming to the symposium on social media (TBA).
+__Social media__ Find some friends coming to the symposium on [Facebook](https://fb.me/e/4XPbwvskT).
 
 __Previous symposiums__ Check the details of the [first](2017/index.html), [second](2019/index.html), [third](2023/index.html), and [fourth](2024/index.html) symposiums.
 
