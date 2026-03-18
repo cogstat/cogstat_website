@@ -25,8 +25,8 @@ __Possible presentation types__
 * Presentation of new methods, preferably also offering computational tools
 * Presentation of older methods that are less well-known among researchers
 * Demonstration of software solutions that could make the analysis more efficient
-* Tutorials that introduce either new or older methods
-* Small-group hands-on tutorials 
+* Small-group hands-on tutorials
+  * They may introduce either new or older methods
   * 60 minutes long
   * They may require participants to have their own computer with appropriate software installed on it
   * Participants will register separately for the tutorial sessions
