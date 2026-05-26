@@ -53,6 +53,8 @@ __Contact__ For more information, contact [András Zsidó](mailto:zsido.andras@p
 
 __Social media__ Find some friends coming to the symposium on [Facebook](https://fb.me/e/4XPbwvskT) and [LinkedIn](https://www.linkedin.com/events/7440016281074012160?viewAsMember=true).
 
+__Related event__ You may also be interested in the [16th Alps-Adria Psychology Conference](https://www.asszisztencia.hu/aapc/) following our symposium, on 24-26 September, also at Pécs.
+
 __Previous symposiums__ Check the details of the [first](2017/index.html), [second](2019/index.html), [third](2023/index.html), and [fourth](2024/index.html) symposiums.
 
 __Web hosting__ The symposium website is hosted by [CogStat](https://www.cogstat.org).
