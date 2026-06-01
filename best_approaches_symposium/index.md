@@ -33,7 +33,7 @@ __Possible presentation types__
 
 __Submission__ Submit your abstract by filling out [this form](https://forms.gle/gbD2dATudydwgvde7).
 
-__Deadline__ The deadline for abstract submission is May 31, 2026.
+__Deadline__ The deadline for abstract submission is June 21, 2026 (extended deadline).
 
 ### Program, abstracts, and slides
 
