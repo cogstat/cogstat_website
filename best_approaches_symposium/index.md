@@ -17,27 +17,11 @@ __Date__ September 23, 2026
 
 __Website__ [https://www.cogstat.org/best_approaches_symposium/](https://www.cogstat.org/best_approaches_symposium/) or simply [cogstat.org/badass](https://cogstat.org/badass)
 
-__Aims__ While many new methods are developed these days that are applicable in behavioral sciences, many valuable older methods are not used because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best Approaches symposium is to popularize either new or old solutions, familiarize researchers with these methods, and make these methods more accessible. In addition, the symposium is an excellent opportunity to discuss and evaluate various methods to improve research practice.
-
-### Call for abstracts
-
-__Possible presentation types__
-* Presentation of new methods, preferably also offering computational tools
-* Presentation of older methods that are less well-known among researchers
-* Demonstration of software solutions that could make the analysis more efficient
-* Small-group hands-on tutorials
-  * They may introduce either new or older methods
-  * 60 minutes long
-  * They may require participants to have their own computer with appropriate software installed on it
-  * Participants will register separately for the tutorial sessions
-
-__Submission__ Submit your abstract by filling out [this form](https://forms.gle/gbD2dATudydwgvde7).
-
-__Deadline__ The deadline for abstract submission is June 21, 2026 (extended deadline).
+__Aims__ While many new methods are developed these days that are applicable in behavioral sciences, many valuable older methods are not used because they are not accessible, because researchers do not know how to use them, or because researchers do not even know about them. The aim of the Best Approaches symposium is to popularize either new or established solutions, familiarize researchers with these methods, and make these methods more accessible. In addition, the symposium is an excellent opportunity to discuss and evaluate various methods to improve research practice.
 
 ### Program, abstracts, and slides
 
-The [detailed program and the abstracts will be available here](https://docs.google.com/document/d/1qRYoDwI7MSGebyXMj5KkcHBvEoUynjRyQRsvLYDFz8g/edit?usp=sharing).
+The [detailed program and the abstracts are available here](https://docs.google.com/document/d/1qRYoDwI7MSGebyXMj5KkcHBvEoUynjRyQRsvLYDFz8g/edit?usp=sharing).
 
 The slides will be available in [Proton Drive](https://drive.proton.me/urls/8X7HJ82A3G#kICVq8Q5PGQq).
 
@@ -58,5 +42,22 @@ __Related event__ You may also be interested in the [16th Alps-Adria Psychology 
 __Previous symposiums__ Check the details of the [first](2017/index.html), [second](2019/index.html), [third](2023/index.html), and [fourth](2024/index.html) symposiums.
 
 __Web hosting__ The symposium website is hosted by [CogStat](https://www.cogstat.org).
+
+### Call for abstracts
+_Submissions are closed. Still, we have a few free spots; if you have a topic to share with the participants, contact [András Zsidó](mailto:zsido.andras@pte.hu) to discuss the possibilities._
+
+__Possible presentation types__
+* Presentation of new methods, preferably also offering computational tools
+* Presentation of older methods that are less well-known among researchers
+* Demonstration of software solutions that could make the analysis more efficient
+* Small-group hands-on tutorials
+  * They may introduce either new or older methods
+  * 60 minutes long
+  * They may require participants to have their own computer with appropriate software installed on it
+  * Participants will register separately for the tutorial sessions
+
+__Submission__ Submit your abstract by filling out [this form](https://forms.gle/gbD2dATudydwgvde7).
+
+__Deadline__ The deadline for abstract submission is June 21, 2026 (extended deadline).
 
 <div class='four spacing'></div>
