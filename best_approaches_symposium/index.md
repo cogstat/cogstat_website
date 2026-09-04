@@ -11,7 +11,7 @@ title:  "Best approaches in data analysis and statistics symposium"
 
 ### About the symposium
 
-__Venue__ University of Pécs, [Institute of Psychology](https://btk.pte.hu/en/institute-of-psychology), [Pécs, Ifjúság street, 6., Building B](https://osm.org/go/0KHqHfame?m=) (details TBA)
+__Venue__ University of Pécs, [Institute of Psychology](https://btk.pte.hu/en/institute-of-psychology), [Pécs, Ifjúság street, 6., Building B, room 305](https://osm.org/go/0KHqHfame?m=)
 
 __Date__ September 23, 2026
 
